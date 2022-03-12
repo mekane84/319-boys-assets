@@ -1,13 +1,13 @@
 [
   { "year": 2021, "champion": "Los Kanehos", "owner": "Kane", "image": "images/champs/2021_bigflo_kaneho.jpg" }
 , { "year": 2020, "champion": "Yeti Time", "owner": "Haas", "image": "images/champs/2020_haaser.jpg" }
-, { "year": 2019, "champion": "The Fighting Platypus", "owner": "Downing", "image": "images/champs/2019_timmy_2017.jpg" }
+, { "year": 2019, "champion": "The Fighting Platypus", "owner": "Downing", "image": "images/champs/2019_timmy_2012.jpg" }
 , { "year": 2018, "champion": "The Timmy Matts", "owner": "Larew", "image": "images/champs/2018_robby_2019.jpg" }
 , { "year": 2017, "champion": "Yeti Time", "owner": "Haas", "image": "images/champs/2017_haas_2016.jpg" }
 , { "year": 2016, "champion": "The Donkey Punchers", "owner": "B Rod", "image": "images/champs/2016_brod.jpg" }
-, { "year": 2015, "champion": "The Fighting Platypus", "owner": "Downing", "image": "images/champs/2015_timmy_2012.jpg" }
+, { "year": 2015, "champion": "The Fighting Platypus", "owner": "Downing", "image": "images/champs/2015_tim_2010.jpg" }
 , { "year": 2014, "champion": "The Timmy Matts", "owner": "Larew", "image": "images/champs/2014_robby_2015.jpg" }
-, { "year": 2013, "champion": "Sharknados", "owner": "Kane", "image": "images/champs/2013_kane_2009.jpg" }
+, { "year": 2013, "champion": "Sharknados", "owner": "Kane", "image": "images/champs/2013_kane_2010.jpg" }
 , { "year": 2012, "champion": "Reverse Apache Master", "owner": "Kiely", "image": "images/champs/2012_tom_2013.jpg" }
 , { "year": 2011, "champion": "The Yeti Strikes Back", "owner": "Haas", "image": "images/champs/2011_haas_2008.jpg" }
 , { "year": 2010, "champion": "The Hekmas", "owner": "Vincent", "image": "images/champs/2010_red_2011.jpg" }
